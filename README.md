@@ -1,2 +1,2 @@
 # DEMONSTRATION
-Repository for sysinfo.sh 
+This is my first update from Red Hat Academy lab 
